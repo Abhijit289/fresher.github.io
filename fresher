@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Fresher Party 🎉</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🎊 Welcome to the Fresher Party 🎊</h1>
+    <p>Dear Junior, get ready for an unforgettable evening filled with fun, music, and memories!</p>
+    <a href="invites.html" class="btn">View Your Invitation</a>
+  </div>
+</body>
+</html>
