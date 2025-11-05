@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Fresher Party Invite</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🎉 Welcome, Abhijit! 🎉</h1>
+    <img src="abhijit.jpg" alt="Abhijit" style="width:200px;border-radius:10px;">
+    <p>You are cordially invited to the <b>Ravenshaw University Fresher Party</b>!</p>
+    <p><b>Date:</b> December 1, 2025</p>
+    <p><b>Venue:</b> Ravenshaw University Lawn</p>
+    <p>Let’s celebrate together with lights, balloons, chocolates & music!</p>
+  </div>
+</body>
+</html>
